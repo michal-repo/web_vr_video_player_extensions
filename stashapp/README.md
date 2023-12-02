@@ -1,0 +1,1 @@
+### StashApp must be configured with SSL
